@@ -1,0 +1,70 @@
+
+  .bh_header {
+    font-size: 18px;
+    background-image: url(./img/header_behero.jpg);
+    box-shadow: 130vw 130vw 130vw 130vw rgba(104, 103, 103, 0.747) inset;
+    height:800px;
+    color: #ffffff; 
+  }
+  
+  .bh-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    list-style-type: none;
+    position: fixed;
+    right: 0;
+    left: 0;
+    box-shadow: 8vw 0 8vw 0   rgba(240, 240, 240, 0.856) inset;
+    color:rgb(87, 86, 86);
+  }
+  .bh-navbar__item {
+    margin: 0 10% 0 10%;
+  }
+  .App-logo {
+    height: 5vw;
+  }
+  .bh-text {
+      letter-spacing:0.5px; 
+      text-align: center; 
+      padding: 94px 0 38px 0;
+  }
+  
+  .bh-text__baza
+  {
+      padding-bottom:30px;
+      padding-top: 15px;
+      font-weight: 300;
+      font-size: 22px;    
+  }
+  .bh-text__zagolovok{
+  padding: 34px 0 38px 0;
+  font-size: 72px;
+  line-height: 1.17;
+  font-weight: 600;
+  }
+  .bh-text__text{
+  padding:  40px 30px 28px  40px ;
+  font-size: 26px;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: 400; 
+   }
+/*    
+  .wrapper {
+    width: 1170px;
+    max-width: 100%;
+    color: #000;  
+    padding: 50px 75px 40px 75px;
+    font-size: 36px;
+    line-height: 1.23; 
+    margin-left: auto;
+    margin-right: auto;
+  } 
+  
+  .wrapper-text {
+    margin-top: 30px; 
+    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 1.3;
+  }  */ 
